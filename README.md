@@ -11,6 +11,7 @@ Allen and Howard (2015) devised a stream-burning technique employing high-resolu
 Figure 1. Detailed flow chat for four codes included in StreamBurningwND.
 
 **This tool require ESRI ArcGIS Pro 3.0, it is designed as a Toolbox that you can add to ArcGIS Pro.**
+
 **Before running this tool, make sure your ArcGIS Pro is licensed with 3D Analyst and Spatial Analyst Extensions.**
 
 
@@ -24,6 +25,8 @@ For your practices, we also include a sample dataset for a watershed in Norfolk,
 
 Figure 2. Sample files and a toolbox provided in this use case.
 
+Link to [toolbox](https://github.com/Y-HChen/StreamBurningwND/blob/main/StreamBurningwND.atbx)
+
 Link to [toolbox and sample files (Google Drive)](https://drive.google.com/file/d/1JChLh-uEP3MnKqBxNBexXNmmceQjsBRR/view)
 
 
@@ -32,7 +35,7 @@ Unzip the file and add the *“StreamBuringwND.atbx”* toolbox into ArcGIS Pro 
 
 ![image](https://github.com/Y-HChen/StreamBurningwND/assets/127795437/f4653e59-e61f-4429-a415-792dde61e91e)
 
-For step by step using the sample files, see Manual.pdf
+For step by step using the sample files, please refer to [Manual](https://github.com/Y-HChen/StreamBurningwND/blob/main/StreamBurningwND_Manual_ArcGISPro3.pdf)
 
 ## Reference
 Allen, T. R., & Howard, R. (2015). [Improving Low-Relief Coastal LiDAR DEMs with Hydro-Conditioning of Fine-Scale and Artificial Drainages](https://doi.org/10.3389/feart.2015.00072). Frontiers in Earth Science 3. 10.3389/feart.2015.00072
