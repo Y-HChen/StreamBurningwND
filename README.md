@@ -27,7 +27,3 @@ https://drive.google.com/file/d/1JChLh-uEP3MnKqBxNBexXNmmceQjsBRR/view
 1. Unzip the file and add the *“StreamBuringwND.atbx”* toolbox into ArcGIS Pro by right clicking the Toolboxes and selecting “Add ToolBox” in Catalog pane. You should see 4 script-based tools showing in the added toolbox.
 
 ![image](https://github.com/Y-HChen/StreamBurningwND/assets/127795437/f4653e59-e61f-4429-a415-792dde61e91e)
-
-2. Save sample files in a proper place. Create a geodatabase for data processing. Here a geodatabase named *“StreamBurningToolSample_Project”* is created and used in following steps.
-
-
