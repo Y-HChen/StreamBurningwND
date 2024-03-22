@@ -37,5 +37,9 @@ Unzip the file and add the *“StreamBuringwND.atbx”* toolbox into ArcGIS Pro 
 
 For step by step using the sample files, please refer to [Manual](https://github.com/Y-HChen/StreamBurningwND/blob/main/StreamBurningwND_Manual_ArcGISPro3.pdf)
 
+![image](https://github.com/Y-HChen/StreamBurningwND/assets/127795437/9802a298-1231-45d1-be2c-2dfec2d38372)
+
+*The hillshade on the right-hand side depicts the flowline buffer zones "burned" onto the original DEM, facilitating the connection of the stream across the road (see red arrow).*
+
 ## Reference
 Allen, T. R., & Howard, R. (2015). [Improving Low-Relief Coastal LiDAR DEMs with Hydro-Conditioning of Fine-Scale and Artificial Drainages](https://doi.org/10.3389/feart.2015.00072). Frontiers in Earth Science 3. 10.3389/feart.2015.00072
